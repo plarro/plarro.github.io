@@ -60,7 +60,7 @@ Terms of service (from here and now referred to as “terms”) for the use of t
 
 ### 7. Contact
 
-**7.1.** You can contact us by emailing contactplarro@gmail.se.
+**7.1.** You can contact us by emailing [contactplarro@gmail.se](mailto:contactplarro@gmail.se).
 
 ### 8. Intellectual property
 
@@ -138,4 +138,4 @@ This privacy policy describes, as defined in the General Data Protection Regulat
 
 ### 8. How to contact us
 
-**8.1.** You can contact us by emailing contactplarro@gmail.se.
+**8.1.** You can contact us by emailing [contactplarro@gmail.se](mailto:contactplarro@gmail.se).
