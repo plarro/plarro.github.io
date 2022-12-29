@@ -6,7 +6,7 @@ Terms of service (from here and now referred to as “terms”) for the use of t
 
 ### 1. Formation of contract
 
-**1.1.** By downloading or using Plarro, you confirm that you have read, understood and agree that you are bound by these terms and guarantee that you have the legal capacity (i.e. that you are at least 18 years old or have the permission of your legal guardian) to accept these terms.
+**1.1.** By downloading or using Plarro, you confirm that you have read, understood and agree that you are bound by these terms and guarantee that you have the legal capacity (i.e., that you are at least 18 years old or have the permission of your legal guardian) to accept these terms.
 
 ### 2. Privacy policy
 
